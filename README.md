@@ -1,5 +1,5 @@
 # Hi, I'm Ermin 👋 
-### Software Systems @ University of Zurich (UZH) with a minor in Information Systems | 6th Semester
+### Software Systems BSc @ University of Zurich (UZH) with a minor in Information Systems | 6th Semester
 
 ---
 
@@ -9,7 +9,7 @@
 **An automation suite to eliminate manual visitor parking registration.**
 * **The Problem:** Manually filling out web forms to avoid parking fines.
 * **The Solution:** A Siri-triggered bot that automates the entire registration process using a headless browser (Playwright), managed via Google Cloud Run and Firestore.
-* **[View Repository](https://github.com/ermin-mumic/Parkon-Bot) | [Detailed Documentation](./Parkon-Bot#readme)**
+* **[View Repository](https://github.com/ermin-mumic/Parkon-Bot)**
 
 ### 🎯 Manhunt | Next.js • TypeScript • Google Maps API
 **A real-time, geo-fenced multiplayer mobile game for the smartphone era.**
@@ -20,7 +20,7 @@
 ---
 
 ## 🎓 University of Zurich 
-[![UZH Portfolio](https://img.shields.io/badge/UZH-Academic_Portfolio-blue?style=for-the-badge&logo=universityofzurich&logoColor=white)](https://github.com/ermin-mumic?tab=repositories&q=topic:university-of-zurich)
+**[View all UZH Course Repositories →](https://github.com/ermin-mumic?tab=repositories&q=topic:university-of-zurich)**
 
 | Course | Grade | Key Implementation | Tech Stack |
 | :--- | :--- | :--- | :--- |
