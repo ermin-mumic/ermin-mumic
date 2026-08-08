@@ -1,5 +1,6 @@
-# Hi, I'm Ermin 👋 
-### Software Systems BSc @ University of Zurich (UZH) with a minor in Information Systems | 6th Semester
+# Hi, I'm Ermin 👋
+### MSc Informatics @ University of Zurich (UZH) | Major in Artificial Intelligence, Minor in Data Science
+**BSc Informatics @ UZH | Major in Software Systems, Minor in Information Systems** — completed 2026
 
 ---
 
@@ -19,17 +20,24 @@
 
 ---
 
-## 🎓 University of Zurich 
+## 🎓 University of Zurich
 **[View all UZH Course Repositories →](https://github.com/ermin-mumic?tab=repositories&q=topic:university-of-zurich)**
+
+### Master — Artificial Intelligence / Data Science
+
+*Starting Fall Semester 2026 — repositories coming soon.*
+
+### Bachelor — Software Systems / Information Systems
 
 | Course | Grade | Key Implementation | Tech Stack |
 | :--- | :--- | :--- | :--- |
+| **Introduction to AI** | **6.00** | Q-Learning Agents, A* Search & Self-Attention | Python, PyTorch, NumPy |
 | **Software Construction** | **5.75** | Built a custom Version Control System (Tig) | Python, Java |
-| **Informatics II** | **5.25** | AVL/Red-Black Trees & Complex Sorting | C (Low-level) |
-| **Operations Research** | **5.00** | Swiss Post Route Optimization (MILP) | Python, Gurobi |
-| **Numerical Methods** | **5.25** | LU Decomposition & PCA Analysis | NumPy, Python |
 | **Comp. Networks / DS** | **5.75** | TCP Sockets & Map-Reduce Workflows | Python |
 | **Informatics I** | **5.75** | OOP Foundations & Class Hierarchies | Python |
+| **Informatics II** | **5.25** | AVL/Red-Black Trees & Complex Sorting | C (Low-level) |
+| **Numerical Methods** | **5.25** | LU Decomposition & PCA Analysis | NumPy, Python |
+| **Operations Research** | **5.00** | Swiss Post Route Optimization (MILP) | Python, Gurobi |
 
 ---
 
@@ -43,12 +51,12 @@
 **Tools & Infrastructure:**
 * **Cloud:** Google Cloud Platform (Run, Firestore, Scheduler), Vercel
 * **Automation:** Playwright, GitHub Actions, Apple Shortcuts
-* **Data/Math:** Gurobi Optimizer, NumPy, Pandas, LaTeX
+* **Data/Math:** PyTorch, Gurobi Optimizer, NumPy, Pandas, LaTeX
 
 ---
 
 ## 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/ermin-mumic](www.linkedin.com/in/ermin-mumic)
+* **LinkedIn:** [linkedin.com/in/ermin-mumic](https://www.linkedin.com/in/ermin-mumic)
 * **Email:** ermin.mumic@uzh.ch
 
 ---
